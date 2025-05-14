@@ -1,5 +1,4 @@
 # testrepo
-This is just a testing file
 GERMAN WINE PRODUCTION ANALYSIS/
 │
 ├── bin/ # Python scripts for data analysis and cleaning
@@ -20,7 +19,6 @@ GERMAN WINE PRODUCTION ANALYSIS/
 ├── .gitignore # Git ignore rules
 ├── LICENSE # Project license
 └── README.md # Project overview and instructions
-
 Copy
 Edit
 ✅ Just paste this block into your README.md — it will render cleanly on GitHub and clearly show your project structure. Let me know if you want it styled with emojis or folder icons!
